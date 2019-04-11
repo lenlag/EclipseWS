@@ -1,0 +1,80 @@
+.btn-disconnect {
+	background-image: linear-gradient(to right, #CC95C0 0%, #DBD4B4 51%, #CC95C0 100%);
+	height: 40px;
+	border-radius: 10px;
+	margin-right: 20px;
+	}
+.btn-disconnect:hover { background-position: right center; }
+
+.btn-cancel {background-image: linear-gradient(to right, #F00000 0%, #DC281E 51%, #F00000 100%)}
+.btn-cancel:hover { background-position: right center; }
+
+.btn-submit {background-image: linear-gradient(to right, #A1FFCE 0%, #FAFFD1 51%, #A1FFCE 100%)}
+.btn-submit:hover { background-position: right center; }
+
+.btn-back {background-image: linear-gradient(to right, #BE93C5 0%, #7BC6CC 51%, #BE93C5 100%)}
+.btn-back:hover { background-position: right center; }
+* {
+  margin: 0;
+  padding: 0;
+
+}
+html {
+ width: 100%;
+  height: 100%;
+}
+body {
+ background-image: url(https://images.pexels.com/photos/450066/pexels-photo-450066.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+  width: 100%;
+  height: 100%;
+  background-size: 100% 100%;
+  margin: 0;
+  padding: 0;
+}
+
+th {
+	border-radius: 20px;
+	background-color: #a2c0e5;
+	color: white;
+}
+.table {
+  border-radius: 20px;
+  text-align : center;
+  font-weight: bold;
+  background-color: #dceef2;
+  color: black;
+  width: 100%;
+  height: 50%;
+  border: none;
+  opacity : 0.8;
+}
+
+h1 {
+	margin-top: 30px;
+	text-align: center;
+	color: #185099;
+	text-shadow: 7px 10px 3px white;
+	margin-bottom: 30px;
+}
+
+h2 {
+	margin-top: 20px;
+	text-align: center;
+	color: #185099;
+	text-shadow: 7px 10px 3px white;
+}
+
+h3 {
+	margin-top: 20px;
+	text-align: center;
+	color: #185099;
+	text-shadow: 7px 10px 3px white;
+}
+
+h4 {
+	margin-top: 20px;
+	text-align: center;
+	color: #185099;
+	text-shadow: 7px 10px 3px white;
+	margin-bottom: 40px;
+}

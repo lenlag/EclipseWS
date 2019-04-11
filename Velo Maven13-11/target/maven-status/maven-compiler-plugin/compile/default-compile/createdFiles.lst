@@ -1,0 +1,9 @@
+persistence\dao\IDAO.class
+persistence\manager\ICfgManager.class
+persistence\manager\JDBCManager.class
+business\entity\Equipe.class
+business\entity\Cycliste.class
+persistence\manager\CfgManager.class
+persistence\dao\EquipeDao.class
+persistence\exception\DaoException.class
+persistence\dao\CyclisteDao.class
